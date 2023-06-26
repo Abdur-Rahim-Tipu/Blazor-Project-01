@@ -1,0 +1,896 @@
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.staticwebassets.runtime.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.staticwebassets.runtime.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.exe
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.deps.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.runtimeconfig.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.pdb
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.pdb
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.AssemblyReference.cache
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfoInputs.cache
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfo.cs
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cache
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cs
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.CandidateBlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\CandidateBlazorApp.Server.styles.css
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CopyComplete
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\refint\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.genruntimeconfig.cache
+C:\Users\Asdf1234\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\ref\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.staticwebassets.runtime.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.staticwebassets.runtime.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.exe
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.deps.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.runtimeconfig.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.pdb
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.pdb
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.AssemblyReference.cache
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfoInputs.cache
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfo.cs
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cache
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cs
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.CandidateBlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\CandidateBlazorApp.Server.styles.css
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CopyComplete
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\refint\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.genruntimeconfig.cache
+C:\Users\Rahim\Desktop\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\ref\CandidateBlazorApp.Server.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.staticwebassets.runtime.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.staticwebassets.runtime.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.exe
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.deps.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.runtimeconfig.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.pdb
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Json.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.pdb
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.pdb
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.AssemblyReference.cache
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfoInputs.cache
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfo.cs
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CoreCompileInputs.cache
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cache
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cs
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.CandidateBlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateBlazorApp.Server.props
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateBlazorApp.Server.props
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateBlazorApp.Server.props
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\CandidateBlazorApp.Server.styles.css
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CopyComplete
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\refint\CandidateBlazorApp.Server.dll
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.pdb
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.genruntimeconfig.cache
+G:\Blazor Project\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\ref\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.staticwebassets.runtime.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.staticwebassets.runtime.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.exe
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.deps.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.runtimeconfig.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.pdb
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.pdb
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.AssemblyReference.cache
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfoInputs.cache
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfo.cs
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cache
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cs
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.CandidateBlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\CandidateBlazorApp.Server.styles.css
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CopyComplete
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\refint\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.genruntimeconfig.cache
+C:\Users\Asdf1234\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\ref\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.staticwebassets.runtime.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.staticwebassets.runtime.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.exe
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.deps.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.runtimeconfig.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.pdb
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.pdb
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.AssemblyReference.cache
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfoInputs.cache
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfo.cs
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cache
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cs
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.CandidateBlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\CandidateBlazorApp.Server.styles.css
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CopyComplete
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\refint\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.genruntimeconfig.cache
+C:\Users\Rahim\Desktop\Blazor Project1\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\ref\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.staticwebassets.runtime.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.staticwebassets.runtime.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.exe
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.deps.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.runtimeconfig.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.pdb
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.pdb
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.AssemblyReference.cache
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfoInputs.cache
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfo.cs
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cache
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cs
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.CandidateBlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\CandidateBlazorApp.Server.styles.css
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CopyComplete
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\refint\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.genruntimeconfig.cache
+C:\Users\Rahim\Desktop\Blazor Project1  With Fille\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\ref\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.staticwebassets.runtime.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.staticwebassets.runtime.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.exe
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.deps.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.runtimeconfig.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.pdb
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.pdb
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.AssemblyReference.cache
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfoInputs.cache
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfo.cs
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cache
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cs
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.CandidateBlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateBlazorApp.Server.props
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\CandidateBlazorApp.Server.styles.css
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CopyComplete
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\refint\CandidateBlazorApp.Server.dll
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.genruntimeconfig.cache
+C:\Users\Asdf1234\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\ref\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.staticwebassets.runtime.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.staticwebassets.runtime.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.exe
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.deps.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.runtimeconfig.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Client.pdb
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\bin\Debug\net7.0\CandidateBlazorApp.Shared.pdb
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.AssemblyReference.cache
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfoInputs.cache
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.AssemblyInfo.cs
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cache
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.RazorAssemblyInfo.cs
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.CandidateBlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CandidateBlazorApp.Server.props
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\scopedcss\bundle\CandidateBlazorApp.Server.styles.css
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.csproj.CopyComplete
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\refint\CandidateBlazorApp.Server.dll
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.pdb
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\CandidateBlazorApp.Server.genruntimeconfig.cache
+C:\Users\Rahim\Desktop\Candidates Projects\CandidateBlazorApp\CandidateBlazorApp\Server\obj\Debug\net7.0\ref\CandidateBlazorApp.Server.dll
